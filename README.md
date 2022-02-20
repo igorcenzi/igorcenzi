@@ -1,18 +1,27 @@
-<img align="right" height="150" style="border-radius:50px;" src="https://c.tenor.com/bVm05NUoyF0AAAAC/bokuno-hero-academia-izuku.gif">
 
-## Hi there, I'm Igor 👋 
-### Welcome to my github profile 🙋‍♂️
+<h2 align="center"> Hi there, I'm Igor 👋  </h2>
 
-#### There are couple things about me:
+<h3 align="center"> Welcome to my github profile </h3>
 
 
-- 🔭 I’m currently working on front end
+<p align="center">
+  <img 
+    width="300px"
+    src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif"
+  >
+</p>
+
+
+
+### There are couple things about me:
+
+
+- 🔭 I’m currently working on Front-end
 - 🌱 I’m currently learning ReactJs
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I worked as a chef 👨‍🍳 for a couple months in Melbourne/🇦🇺 
 
-
-
+##
 
 
 <a href="https://github.com/igorcenzi">
