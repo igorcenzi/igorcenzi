@@ -125,6 +125,20 @@
 
 ###
 
+<h2 align="center">Visitants</h2>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/igorcenzi/count.svg?"  />
+</div>
+
+###
+
+<h2 align="center">Enjoy with me</h2>
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/12151879569">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=12151879569&unique={true|1|on|yes}" alt="Spotify recently played"  />
@@ -132,3 +146,6 @@
 </div>
 
 ###
+
+
+
